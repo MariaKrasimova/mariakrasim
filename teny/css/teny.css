@@ -1,0 +1,70 @@
+.cub {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    box-shadow: 20px 15px 5px red;
+}
+.cub1 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    box-shadow: 20px -15px red;
+}
+.cub2 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    box-shadow: inset 0px 0px 5px black;
+}
+.cub3 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    box-shadow: inset 3px 4px 3px black;
+}
+.cub4 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    box-shadow: 10px 30px 10px black, -10px -30px 10px black;
+}
+.cub5 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    box-shadow: 30px 0px 0px black, 0px 30px 0px red, -30px 0px 0px blue, 0px -30px 0px green;
+}
+.cub6 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    box-shadow: 20px 30px black;
+}
+.cub7 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    box-shadow: 20px 30px 10px black;
+}
+.cub8 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    box-shadow: 20px 30px 10px black, -20px -30px 10px black;
+}
+.cub9 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    box-shadow: inset 5px 5px 10px black;
+}
+.cub10 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    box-shadow: inset 5px 5px 10px blue, inset -5px -5px 10px red;
+}
+div {
+    margin-left: 850px;
+    margin-bottom: 70px;
+}
